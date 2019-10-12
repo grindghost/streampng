@@ -1,6 +1,8 @@
-# streampng [![Build Status](https://secure.travis-ci.org/brianloveswords/streampng.png?branch=master)](http://travis-ci.org/brianloveswords/streampng)
+# streampng 
 
 Reading, modifying and (experimentally) writing PNGs, chunk by chunk.
+
+Forked from  [https://github.com/brianloveswords/streampng](https://github.com/brianloveswords/streampng) to update dependencies
 
 ## Install
 
@@ -9,6 +11,8 @@ $ npm install streampng
 ```
 
 ## Tests
+
+This fork breaks tests. 
 
 Requires [node-tap](/isaacs/node-tap).
 
